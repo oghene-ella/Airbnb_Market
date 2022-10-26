@@ -6,8 +6,8 @@ Welcome to New York City (NYC), one of the most-visited cities in the world. As 
 <h3>The aim of this project is to analyse the data✨</h3>
 My analysis will be focused on the following questions:
 <ol>
-  <li>What is the average price, per night, of an Airbnb listing in NYC?</li>
-  <li>How does the average price of an Airbnb listing, per month, compare to the private rental market?</li>
+  <li>What is the average price of an Airbnb listing per night in NYC?</li>
+  <li>Compare the average price of an Airbnb listing, to the private rental market per month</li>
   <li>How many adverts are for private rooms?</li>
-  <li>How do Airbnb listing prices compare across the five NYC boroughs?</li>
+  <li>Compare Airbnb listing prices across the five NYC boroughs</li>
 </ol>
