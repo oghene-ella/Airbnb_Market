@@ -14,11 +14,11 @@ My analysis will be focused on the following questions:
 
 _________________________________________________________________________________
 <p>With my analysis, I was able to gain insight of the data; the questions above were answered!</p>
-<h3>Here are my results</h3>
+<h3>Here are my results✨</h3>
 <ol>
   <li>The average price per night for an Airbnb listing in NYC is $141.82. I was able to do that by filtering the free listing <br>(that is by removing the ones that had $0) and calculating the average of the remaining ones in the column.</li>
   <li>I was able to compare the monthly costs of airbnb listing which was: $4313.61; while in the private market one would pay $3,100.00 according to <a href="https://www.zumper.com/">Zumper</a> (as at 2019)</li>
   <li>The listing for airbnb privates rooms were about 45% of the total listing; which was about 11,356 listing</li>
-  <li>I was able to make use of "Manhattan, Midtown", "Brooklyn, Clinton Hill", "Manhattan, Murray Hill", "Manhattan, Hell's Kitchen" and "Manhattan, Chinatown" to compare the price listing across boroughs. 
+  <li>I was able to make use of "Manhattan, Midtown", "Brooklyn, Clinton Hill", "Manhattan, Murray Hill", "Manhattan, Hell's Kitchen" and "Manhattan, Chinatown" to compare the price listing across boroughs. <br><img src="final_result"/>
   </li>
 </ol>
