@@ -22,5 +22,5 @@ ________________________________________________________________________________
   <li>I was able to make use of "Manhattan, Midtown", "Brooklyn, Clinton Hill", "Manhattan, Murray Hill", "Manhattan, Hell's Kitchen" and "Manhattan, Chinatown" to compare the price listing across boroughs. <br><img src="final_result.png" style="height:30rem;"/><br>This shows the price range of each borough and the number of people that rented the houses based on the pricing category.</li>
   <br>
   <br>
-  <p>Note: <b>Budget: $0-$69</b>, <b>Average: $70-$175</b>,  <b>Expensive	$176-$350</b>,  <b>Extravagant	> $350</b></p>
+  <p><b>Note</b>: <b>Budget: $0-$69</b>, <b>Average: $70-$175</b>,  <b>Expensive:	$176-$350</b>,  <b>Extravagant:	> $350</b></p>
 </ol>
