@@ -9,7 +9,7 @@ My analysis will be focused on the following questions:
   <li>What is the average price of an Airbnb listing per night in NYC?</li><br>
   <li>Compare the average price of an Airbnb listing, to the private rental market per month</li><br>
   <li>How many adverts are for private rooms?</li><br>
-  <li>Compare Airbnb listing prices across the five NYC boroughs</li><br>
+  <li>Compare Airbnb listing prices across the five NYC boroughs</li>
 </ol>
 
 _________________________________________________________________________________
